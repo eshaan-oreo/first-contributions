@@ -101,6 +101,7 @@
 - [Edgar Nyandoro](https://github.com/Major2000)
 - [Vikash Patel](https://github.com/its-red-eagle)
 - [Vikash Patel](https://github.com/its-red-eagle)\
+- [Eshaan Awasthi](https://github.com/eshaan-oreo)
 - [suryakant Dubalgunde] (https://github.com/suryakantdubalgunde)
 - [Lottiecodes] (https://github.com/lottiecodes)
 - [law01f] (httos://github.com/law01f)
